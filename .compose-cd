@@ -1,3 +1,0 @@
-REPO="https://github.com/miel-misskey/instant-blue.pw-docker-provision"
-UPDATE_REPO_ONLY=true
-UPDATE_IMAGE_BY_REPO=true
